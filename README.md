@@ -2,6 +2,8 @@
 
 **Aluno:** Nícolas James de Campos  
 **RA:** 213804  
+**Aluno:** Adilson De Sousa Santos
+**RA:** 251324
 **Disciplina:** Programação para Dispositivos Móveis  
 
 ---
